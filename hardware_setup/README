@@ -1,1 +1,17 @@
+This is the folder for the hardware setup of the project.
 
+In this folder there are some instructions to how to setup the physical side of the project.
+
+The products I used are listed here and linked 
+Raspberry Pi 5 16 GB and AI Hailo+ 26 tops kit - https://www.canakit.com/canakit-raspberry-pi-5-quick-start-ai-13-26-tops-kit.html?defpid=5008
+Pi Cam 3 Wide - https://www.canakit.com/raspberry-pi-camera-module-3.html?srsltid=AfmBOoqzcH-HD9uqYTG-FH7rqtyDdtAYeZy61UOCGR-AHnsqGMdtY768
+1TB Micro SD card - https://www.amazon.com/dp/B09X7MPX8L?lv=shuf&ascsubtag=11846780%7C%7C%7C%7C%7C%7Cpc&th=1&tag=lifewire-paid-20&channelId=1&plpRedirect=mhFallback
+MOAB65 40000mAh Powerbank - https://toughtested.com/products/pd65?srsltid=AfmBOopQg5xjGajZV6HZWX1yh00dRiFxHuShSEQVMJocuwCufhzrYy3W
+USB Fan - https://www.amazon.com/gp/product/B0CNZXJLB6/ref=ox_sc_act_title_1?th=1
+AirTag Tracker - https://www.amazon.com/gp/product/B0GJTFXNRX/ref=ox_sc_act_title_1?smid=ATVPDKIKX0DER&th=1
+GPIO pin Extender - https://www.amazon.com/iUniker-Extender-2x20-Pin-Stacking-Raspberry/dp/B0FRZ5MPF8/ref=sr_1_9?crid=3JGAE54B223MM&dib=eyJ2IjoiMSJ9.mWyacVCwl--uAPrv1vA1M9Rl06xnK6_p6-JKQVGCPxemJHpdlkYQ21UCcLw8sL_ncXje-88pMI5adADsAcBBQ5qH3oSfxh8g813lHMh8YERn-4TKXYPFcyJfdKk0_QmcTrwnykv4di6QOZ80oq0SKPiSmRKBd_rDpPpkOAGfg7SVgItT6B7fehwr4ZXXZZtfIEXq6Vtnqpe7NukhTtvXtQgzS19VOTFGZmt3TpyNcEI.81SszS3p1En0pqEVfyrLMt6DGbHNIpzKDL67JgXHlzI&dib_tag=se&keywords=40+pin+gpio+extender&qid=1787168986&sprefix=gpio+pin+extender%2Caps%2C146&sr=8-9
+Waterproof box - https://www.amazon.com/dp/B07SL3CS3Y?ref=fed_asin_title&th=1
+
+
+According to the picture attached I used a waterproof, lockable box to house all of these components needed for the project. This is intended to be durable and water resistant against potential 
+robbers or precipitation. 

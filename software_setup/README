@@ -1,0 +1,18 @@
+This is the software setup of the RPI 5 AI Hat+ setup. 
+
+Step 1. Start your Raspberry Pi with the official instructions: https://www.raspberrypi.com/documentation/computers/getting-started.html
+Step 2. Connect your camera to the RPI: https://www.raspberrypi.com/documentation/accessories/camera.html#install-a-raspberry-pi-camera
+Step 3. Connect your AI Hat to the Raspberry Pi: https://www.raspberrypi.com/documentation/accessories/ai-hat-plus.html#ai-hat-plus-installation
+Step 4. Once connected, Download the Hailo-apps repository onto your RPI using these commands in the terminal:
+  git clone https://github.com/hailo-ai/hailo-apps.git
+  cd hailo-apps
+  sudo ./install.sh
+Its recommended to read through the repository to get an understanding as to how it functions: https://github.com/hailo-ai/hailo-apps
+
+Once done, download my traffic_counter folder.
+There you will find the folders, 
+  video_on_boot
+  traffic_count_data
+  rpi_deploy
+  recorded_videos
+  post_processor

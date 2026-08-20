@@ -1,0 +1,16 @@
+{
+    "detection_threshold": 0.25,
+    "max_boxes": 100,
+    "labels": [
+        "background",
+        "SUV",
+        "bus",
+        "sedan",
+        "fire engine",
+        "pickup truck",
+        "Semi Truck",
+        "School Bus",
+        "Tanker Truck",
+        "Van"
+    ]
+}
